@@ -6,7 +6,7 @@ const page = () => {
   return (
     <div className=''>
       <Navbar></Navbar>
-      
+      <Button variant="secondary">Testing</Button>
     </div>
   )
 }
